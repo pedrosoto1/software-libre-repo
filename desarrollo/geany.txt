@@ -1,0 +1,1 @@
+Editor ligero para programadores: https://www.geany.org/
